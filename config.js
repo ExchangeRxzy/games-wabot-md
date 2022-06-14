@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['6283804678512'],
   ['6288287037007'],
-  ['6288287037007', 'BG', true]
+  ['6288287037007', 'Kyura', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -30,8 +30,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot'
+global.packname = 'Kyura
+global.author = 'Ingin Jadi Maou'
 
 global.multiplier = 69 // The higher, The harder levelup
 
